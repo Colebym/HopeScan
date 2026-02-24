@@ -48,7 +48,7 @@ Navigate to the project folder:
 
 Run the scanner:
 
-> python HopeScan.py
+> python mainV1.py
 
 Enter the target IPv4 address when prompted.
 
