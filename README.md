@@ -40,15 +40,15 @@ Running HopeScan
 -----------------
 Clone the repository:
 
->> git clone https://github.com/yourusername/HopeScan.git
+> git clone https://github.com/yourusername/HopeScan.git
 
 Navigate to the project folder:
 
->> cd HopeScan
+> cd HopeScan
 
 Run the scanner:
 
->> python HopeScan.py
+> python HopeScan.py
 
 Enter the target IPv4 address when prompted.
 
@@ -59,10 +59,15 @@ Wait for the scan to complete — the scanner will output open ports and total s
 Example Output
 ---------------
 Enter target IP: 127.0.0.1
+
 Scanning ports...
+
 Open Ports Found:
-- 135
-- 445
+
+135
+
+445
+
 Scan completed in 8.72 seconds.
 
 
@@ -70,10 +75,15 @@ Scan completed in 8.72 seconds.
 Future Improvements (v2+)
 --------------------------
 Add multi-threading for faster scans
+
 Allow custom port ranges
+
 Port service details + versions
+
 Implement a GUI with real-time progress
+
 Add domain name resolution
+
 Add option to list common CVE's for service versions found
 
 
@@ -81,9 +91,11 @@ Add option to list common CVE's for service versions found
 Project Structure
 ------------------
 HopeScan/
-│
+
 ├─ HopeScan.py         # Main Python script
+
 ├─ README.md           # Project documentation
+
 └─ .gitignore          # Exclude IDE & OS files
 
 
