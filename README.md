@@ -40,7 +40,7 @@ Running HopeScan
 -----------------
 Clone the repository:
 
-> git clone https://github.com/yourusername/HopeScan.git
+> git clone https://github.com/colebym/HopeScan.git
 
 Navigate to the project folder:
 
