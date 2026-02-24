@@ -1,0 +1,5 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignore any nested Git repositories
+GitRepo/
