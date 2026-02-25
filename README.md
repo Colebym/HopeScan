@@ -4,7 +4,7 @@ HopeScan v1
 
 Basic TCP Port Scanner in Python
 
-A beginner-friendly yet fully functional TCP port scanner that scans an IPv4 address for open ports (1–1024), validates user input, and measures scan duration.
+A beginner-friendly, yet fully functional TCP port scanner that scans an IPv4 address for open ports (1–1024), validates user input, and measures scan duration.
 
 
 ---------
@@ -15,7 +15,7 @@ IPv4 Input Validation: Ensures only valid IP addresses are scanned.
 
 TCP Port Scanning: Checks ports 1–1024 for open TCP connections.
 
-Timeout Handling: Skips unresponsive ports after 2 seconds.
+Timeout Handling: Skips unresponsive ports after 0.5 seconds.
 
 Open Ports Reporting: Displays open ports on separate lines.
 
