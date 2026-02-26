@@ -1,0 +1,11 @@
+{
+    "target": "142.250.117.113",
+    "port_range": {
+        "start": 1,
+        "end": 500
+    },
+    "open_ports": [
+        443
+    ],
+    "scan_duration_seconds": 2.56
+}
