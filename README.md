@@ -99,6 +99,17 @@ HopeScan/
 └─ .gitignore          # Exclude IDE & OS files
 
 
+----------------
+Version History
+----------------
+-- v2.0.0 --
+- Added domain resolution & scanning
+- Added custom port ranges
+- Implemented ThreadPoolExecutor
+- Added JSON export
+- Added menu system
+
+
 --------
 License
 --------
