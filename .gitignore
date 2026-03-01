@@ -1,5 +1,9 @@
-# Ignore PyCharm settings
-.idea/
-
-# Ignore any nested Git repositories
-GitRepo/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.venv/
+env/
+*.sqlite3
+*.db
+.DS_Store

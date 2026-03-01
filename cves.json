@@ -1,0 +1,53 @@
+{
+  "OpenSSH": [
+    {"cve": "CVE-2016-0777", "cvss": 5.0, "summary": "Use-after-free vulnerability in OpenSSH 7.x allows remote code execution."},
+    {"cve": "CVE-2016-3115", "cvss": 4.3, "summary": "User enumeration in OpenSSH 7.x via timing attack."}
+  ],
+  "OpenSSH 7.9": [
+    {"cve": "CVE-2019-6111", "cvss": 5.9, "summary": "Symlink attack in scp in OpenSSH 7.9 allows arbitrary file overwrite."}
+  ],
+  "OpenSSH 8.0": [
+    {"cve": "CVE-2021-41617", "cvss": 6.1, "summary": "Privilege escalation via improper key handling in OpenSSH 8.0."}
+  ],
+  "Microsoft Windows SMB": [
+    {"cve": "CVE-2017-0144", "cvss": 9.8, "summary": "EternalBlue SMBv1 exploit affecting Windows systems."},
+    {"cve": "CVE-2017-0145", "cvss": 8.1, "summary": "SMBv1 remote code execution vulnerability in Windows."}
+  ],
+  "Microsoft Windows SMB 1.0": [
+    {"cve": "CVE-2020-0796", "cvss": 10.0, "summary": "SMBGhost SMBv3 remote code execution vulnerability."}
+  ],
+  "Microsoft Windows RPC": [
+    {"cve": "CVE-2019-0708", "cvss": 9.8, "summary": "BlueKeep Remote Desktop Services RCE in Windows."}
+  ],
+  "Apache HTTP Server": [
+    {"cve": "CVE-2021-41773", "cvss": 7.5, "summary": "Path traversal and file disclosure in Apache 2.4.49."},
+    {"cve": "CVE-2021-42013", "cvss": 7.5, "summary": "Remote code execution in Apache 2.4.50."}
+  ],
+  "vsftpd": [
+    {"cve": "CVE-2011-2523", "cvss": 5.0, "summary": "Backdoor in vsftpd 2.3.4 allows remote shell access."}
+  ],
+  "BIND": [
+    {"cve": "CVE-2015-5477", "cvss": 7.5, "summary": "Stack-based buffer overflow in BIND allows remote attackers to execute arbitrary code."}
+  ],
+  "Windows Kerberos": [
+    {"cve": "CVE-2020-1472", "cvss": 10.0, "summary": "ZeroLogon vulnerability in Netlogon."}
+  ],
+  "Active Directory": [
+    {"cve": "CVE-2021-42287", "cvss": 7.8, "summary": "Active Directory Kerberos privilege escalation."}
+  ],
+  "RDP": [
+    {"cve": "CVE-2019-0708", "cvss": 9.8, "summary": "BlueKeep Remote Desktop Services RCE in Windows."}
+  ],
+  "MySQL": [
+    {"cve": "CVE-2020-1967", "cvss": 5.3, "summary": "Authentication bypass in MySQL 8.0.19."}
+  ],
+  "PostgreSQL": [
+    {"cve": "CVE-2021-32027", "cvss": 7.5, "summary": "Privilege escalation in PostgreSQL 13.3."}
+  ],
+  "Oracle Database": [
+    {"cve": "CVE-2020-14882", "cvss": 9.8, "summary": "Remote code execution vulnerability in Oracle WebLogic Server."}
+  ],
+  "VNC": [
+    {"cve": "CVE-2019-1663", "cvss": 5.3, "summary": "VNC authentication bypass vulnerability."}
+  ]
+}
