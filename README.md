@@ -1,4 +1,5 @@
-<h1 align="center">HopeScan</h1>
+
+<img width="1536" height="340" alt="logo" src="https://github.com/user-attachments/assets/f60b1a03-0d9d-4119-9dca-58e64617e317" />
 
 <p align="center">
   <em>Modern, fast, and lightweight network scanner with CVE enumeration</em>
