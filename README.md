@@ -1,5 +1,7 @@
 HopeScan
 
+<img width="1536" height="340" alt="logo" src="https://github.com/user-attachments/assets/ed7d085d-aee2-48fa-bf26-def67fca62b5" />
+
 HopeScan is a modern, fast, and lightweight network scanner for discovering open ports, enumerating services, and identifying known vulnerabilities (CVEs) on your target systems. Designed for security professionals, penetration testers, and CTF enthusiasts, HopeScan provides both a CLI and GUI interface with a sleek dark theme.
 
 Features
