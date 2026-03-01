@@ -87,9 +87,9 @@ $ python cli.py
 <h2>Release Notes</h2>
 
 <ul>
-  <li><strong>v1.0</strong> – Initial release</li>
-  <li><strong>v2.0</strong> – GUI, improved scanning</li>
-  <li><strong>v3.0</strong> – Service fingerprinting, CVE matching, scan history panel, performance improvements</li>
+  <li><strong>v1.0</strong> – Initial release - Basic TCP port scanner</li>
+  <li><strong>v2.0</strong> – Multithreaded port scanning (ThreadPoolExecutor), Domain name resolution, Custom port range selection, JSON result export, Improved input validation, Structured CLI menu system</li>
+  <li><strong>v3.0</strong> – GUI, Service fingerprinting, CVE matching, scan history panel, performance improvements</li>
 </ul>
 
 <p>Download releases from the <a href="https://github.com/colebym/HopeScan/releases">GitHub releases page</a>.</p>
